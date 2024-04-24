@@ -10,6 +10,8 @@ The dataset used for training and evaluating the SRL model is Product Reviews (h
 
 generate_labels.ipynb - This code is used to compute SRL labels on the Amazon Reviews Dataset. The SRL labels generated are stored in review_with_srl.csv file.
 
+LabelingProductReviews.ipynb - This code is used to compute sentiment labels on Product Reviews Dataset. 
+
 SentimentAnalysisCode.ipynb - This code is used to get the benchmarking performance of LSTM for Sentiment Analysis (without SRL labels). This model is trained on Amazon Reviews Dataset.
 Labels for Sentiment Analysis - Negative,Neutral and Positive. We are referring 
 https://github.com/jlopez873/Sentiment_Analysis_Using_Neural_Networks/blob/main/Sentiment%20Analysis%20Using%20Neural%20Networks.ipynb for the benchmarking model. 
